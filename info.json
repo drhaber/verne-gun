@@ -1,0 +1,12 @@
+{
+  "name": "verne-gun",
+  "version": "0.0.1",
+  "factorio_version": "2.0",
+  "title": "Verne Gun",
+  "author": "ncc1702",
+  "description": "Adds a non-rocket space launch system.",
+  "dependencies": [
+    "space-age >= 2.0.0"
+  ],
+  "space_travel_required": true
+}
